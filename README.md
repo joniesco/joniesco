@@ -11,14 +11,13 @@
 </h3>
 
 
-- 🌱 I’m currently learning JavaScript(ES6), React, HTML and CSS.
-- blah blah
-- blah blah blah
+- 🌱 I’m currently learning JavaScript(ES6), and HTML .
+
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/eyalevi/)](http://www.linkedin.com/in/eyalevi)
-[![Gmail Badge](https://img.shields.io/badge/-happyeyal@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happyeyal@gmail.com)](mailto:happyeyal@gmail.com)
+[![Linkedin Badge](https://www.linkedin.com/in/jonathan-escojido-1691a5219/)](http://www.linkedin.com/in/JonathanEscojido)
+[![Gmail Badge](https://img.shields.io/badge/-joniesco24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joniesco24@gmail.com)](mailto:joniesco24l@gmail.com)
 
 <h1 align="left">🔬Languages and Tools:</h1>
 <p align="left"> 
