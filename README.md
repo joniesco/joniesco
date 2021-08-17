@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Joni</h1>
+<h1 align="center">Hi there 👋, I'm Jonahthan</h1>
 <h3 align="center">Computer Science student at Ariel University</h3>
 
 <h3 align="center"> 
@@ -16,7 +16,7 @@
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://www.linkedin.com/in/jonathan-escojido-1691a5219/)](http://www.linkedin.com/in/JonathanEscojido)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://https://www.linkedin.com/in/jonathan-escojido-1691a5219//)](https://www.linkedin.com/in/jonathan-escojido-1691a5219/)
 [![Gmail Badge](https://img.shields.io/badge/-joniesco24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joniesco24@gmail.com)](mailto:joniesco24l@gmail.com)
 
 <h1 align="left">🔬Languages and Tools:</h1>
