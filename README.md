@@ -11,7 +11,7 @@
 </h3>
 
 
-- 🌱 I’m currently learning JavaScript(ES6), and HTML .
+- 🌱 Currently looking for the next challenge where I can contribute my abilities .
 
 
 <h3> 📫 Contact Me:</h3>
